@@ -1,4 +1,4 @@
-# demo-captonse
+# demo-capstone
 
 <div class="row ">
 <img src="onboarding.png" width="200" />
